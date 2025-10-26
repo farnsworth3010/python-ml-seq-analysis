@@ -1,5 +1,7 @@
 # Revenue Time Series ML Prediction
 
+# ![Project visualization](image.png)
+
 ## Task Description
 For a store selling winter sports equipment, it is required to select a trend and make a revenue forecast based on data from the last 10 months.
 
