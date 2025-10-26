@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.env
+venv/
+.venv/
+ENV/
+*.sqlite3
+*.db
+.ipynb_checkpoints/
+# VS Code
+.vscode/
+# MacOS
+.DS_Store
+# Jupyter
+*.ipynb
+# Logs
+*.log
+# Test
+coverage/
+*.cover
+*.py,cover
+# Others
+*.bak
+*.tmp
+*.swp
+*.swo
+.idea/
